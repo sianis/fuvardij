@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fuvardíj</string>
+    <string name="consumption">Fogyasztás</string>
+    <string name="consumptionUnit">l / 100 km</string>
+    <string name="distance">Távolság</string>
+    <string name="start">Állás induláskor</string>
+    <string name="stop">Állás megérkezéskor</string>
+    <string name="distanceUnit">km</string>
+    <string name="fuelprice">Üzemanyagár</string>
+    <string name="fuelpriceUnit">Ft / l</string>
+    <string name="passengers">Utasok</string>
+    <string name="passagerUnit">fő</string>
+    <string name="calculate">Számítás</string>
+    <string name="mandatory">A mező nem lehet üres</string>
+    <string name="totalPrice">Viteldíj: %d Ft/fő</string>
+    <string name="switcher">Váltás</string>
+    <string name="switchMode">Mód váltása</string>
+
+</resources>
